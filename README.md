@@ -1,0 +1,2 @@
+# safekk
+.js
